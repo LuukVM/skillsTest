@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263541023021",
+    "firebase_url": "https://skillstest-minor-jaar-4.firebaseio.com",
+    "project_id": "skillstest-minor-jaar-4",
+    "storage_bucket": "skillstest-minor-jaar-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263541023021:android:aa1ac95f7e77ab46f773a4",
+        "android_client_info": {
+          "package_name": "com.example.skill_test_luukvanmarsbergen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263541023021-c8fdil74j5vguip3eqvsi3q2110qqdho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANWjN2dTG43ZLGpzbYGNc8iUnSTwONNus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263541023021-c8fdil74j5vguip3eqvsi3q2110qqdho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
